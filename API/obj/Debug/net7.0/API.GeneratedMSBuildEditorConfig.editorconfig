@@ -9,17 +9,9 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = API
 build_property.RootNamespace = API
-<<<<<<< HEAD
-build_property.ProjectDir = F:\backend\datingApp1\API\
+build_property.ProjectDir = f:\backend\datingApp1\API\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\backend\datingApp1\API
-=======
-build_property.ProjectDir = C:\Users\mohammed ali\DatingApp\datingApp-dot-net\API\
-build_property.RazorLangVersion = 7.0
-build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mohammed ali\DatingApp\datingApp-dot-net\API
->>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
+build_property.MSBuildProjectDirectory = f:\backend\datingApp1\API
 build_property._RazorSourceGeneratorDebug = 

@@ -7,6 +7,6 @@ namespace API.data
 {
     public class DataContext
     {
-        
+ 
     }
 }
