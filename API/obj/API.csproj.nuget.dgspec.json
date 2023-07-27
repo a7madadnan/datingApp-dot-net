@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "F:\\backend\\datingApp1\\API\\API.csproj": {}
+    "c:\\Users\\mohammed ali\\DatingApp\\datingApp-dot-net\\API\\API.csproj": {}
   },
   "projects": {
-    "F:\\backend\\datingApp1\\API\\API.csproj": {
+    "c:\\Users\\mohammed ali\\DatingApp\\datingApp-dot-net\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\backend\\datingApp1\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\mohammed ali\\DatingApp\\datingApp-dot-net\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "F:\\backend\\datingApp1\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "F:\\backend\\datingApp1\\API\\obj\\",
+        "projectPath": "c:\\Users\\mohammed ali\\DatingApp\\datingApp-dot-net\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\mohammed ali\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\mohammed ali\\DatingApp\\datingApp-dot-net\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mohammed ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,14 +40,21 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
+<<<<<<< HEAD
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+=======
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
               "target": "Package",
               "version": "[7.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
+<<<<<<< HEAD
               "version": "[7.0.9, )"
+=======
+              "version": "[7.0.7, )"
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
             }
           },
           "imports": [
@@ -69,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

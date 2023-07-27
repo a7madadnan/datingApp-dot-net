@@ -5,7 +5,11 @@
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "lib/net6.0/_._": {
+=======
+          "lib/net6.0/Humanizer.dll": {
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
             "related": ".xml"
           }
         },
@@ -15,7 +19,11 @@
           }
         }
       },
+<<<<<<< HEAD
       "Microsoft.Data.Sqlite.Core/7.0.9": {
+=======
+      "Microsoft.Data.Sqlite.Core/7.0.7": {
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
         "type": "package",
         "dependencies": {
           "SQLitePCLRaw.core": "2.1.4"
@@ -85,7 +93,11 @@
           "Mono.TextTemplating": "2.2.1"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/net6.0/_._": {
+=======
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
             "related": ".xml"
           }
         },
@@ -115,10 +127,17 @@
           }
         }
       },
+<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore.Sqlite/7.0.9": {
         "type": "package",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite.Core": "7.0.9",
+=======
+      "Microsoft.EntityFrameworkCore.Sqlite/7.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Sqlite.Core": "7.0.7",
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
           "SQLitePCLRaw.bundle_e_sqlite3": "2.1.4"
         },
         "compile": {
@@ -128,11 +147,19 @@
           "lib/net6.0/_._": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore.Sqlite.Core/7.0.9": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.Sqlite.Core": "7.0.9",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.9",
+=======
+      "Microsoft.EntityFrameworkCore.Sqlite.Core/7.0.7": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Data.Sqlite.Core": "7.0.7",
+          "Microsoft.EntityFrameworkCore.Relational": "7.0.7",
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
           "Microsoft.Extensions.DependencyModel": "7.0.0"
         },
         "compile": {
@@ -342,7 +369,11 @@
           "System.CodeDom": "4.4.0"
         },
         "compile": {
+<<<<<<< HEAD
           "lib/netstandard2.0/_._": {}
+=======
+          "lib/netstandard2.0/Mono.TextTemplating.dll": {}
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
         },
         "runtime": {
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
@@ -494,7 +525,11 @@
       "System.CodeDom/4.4.0": {
         "type": "package",
         "compile": {
+<<<<<<< HEAD
           "ref/netstandard2.0/_._": {
+=======
+          "ref/netstandard2.0/System.CodeDom.dll": {
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
             "related": ".xml"
           }
         },
@@ -573,10 +608,17 @@
         "logo.png"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Data.Sqlite.Core/7.0.9": {
       "sha512": "ow2PPoeW0yFc7NhexacQUw/LVjkO1mLK3VZAxhVIVjmQWlgYl/4mo9/U7uz+z75I+ZN6LUvq9M0ftU3IE75Ilg==",
       "type": "package",
       "path": "microsoft.data.sqlite.core/7.0.9",
+=======
+    "Microsoft.Data.Sqlite.Core/7.0.7": {
+      "sha512": "21FRzcJhaTrlv7kTrqr/ltFcSQM2TyuTTPhUcjO8H73od7Bb3QraNW90c7lUucNI/245XPkKZG4fp7/7OsKCSg==",
+      "type": "package",
+      "path": "microsoft.data.sqlite.core/7.0.7",
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -585,7 +627,11 @@
         "lib/net6.0/Microsoft.Data.Sqlite.xml",
         "lib/netstandard2.0/Microsoft.Data.Sqlite.dll",
         "lib/netstandard2.0/Microsoft.Data.Sqlite.xml",
+<<<<<<< HEAD
         "microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
+=======
+        "microsoft.data.sqlite.core.7.0.7.nupkg.sha512",
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
         "microsoft.data.sqlite.core.nuspec"
       ]
     },
@@ -661,15 +707,23 @@
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.EntityFrameworkCore.Sqlite/7.0.9": {
       "sha512": "otP72XqfG9UdO0+3O2p1UEx4MLXSAulXc8tIvuq+v1KPtBj/GuMZeJIz+eCu09Xv6fJ6k7aUb8J/x+H0rqOjjA==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlite/7.0.9",
+=======
+    "Microsoft.EntityFrameworkCore.Sqlite/7.0.7": {
+      "sha512": "d9dr/4Rl1HQqc/DCMBg8x/TlqEn49WcTC/HL/zXfDXdNF+J7WfJCHTafUey88++8U+VFBrSNS3eFyBj5Skyz7Q==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.sqlite/7.0.7",
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/net6.0/_._",
+<<<<<<< HEAD
         "microsoft.entityframeworkcore.sqlite.7.0.9.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlite.nuspec"
       ]
@@ -678,13 +732,27 @@
       "sha512": "uLy1swPL4AD6BQsu3SEIzSWKc6gIlmoSAYZX39VnbrqvzkGmMsgEgdCsJIZvdjAW/vzhPazACKMYna1iif04sg==",
       "type": "package",
       "path": "microsoft.entityframeworkcore.sqlite.core/7.0.9",
+=======
+        "microsoft.entityframeworkcore.sqlite.7.0.7.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlite.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Sqlite.Core/7.0.7": {
+      "sha512": "fFSWtL0eVpiI9wkOJ83C/Y3fXuldgvL/jpvGlzdP2mZc/AKp0/Y4lM1Mp4JQ3YU4Y1i9StVwPzyEGGJP5MEwJw==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.sqlite.core/7.0.7",
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll",
         "lib/net6.0/Microsoft.EntityFrameworkCore.Sqlite.xml",
+<<<<<<< HEAD
         "microsoft.entityframeworkcore.sqlite.core.7.0.9.nupkg.sha512",
+=======
+        "microsoft.entityframeworkcore.sqlite.core.7.0.7.nupkg.sha512",
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
         "microsoft.entityframeworkcore.sqlite.core.nuspec"
       ]
     },
@@ -1261,29 +1329,41 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.EntityFrameworkCore.Design >= 7.0.9",
+<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.9"
+=======
+      "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.7"
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\mohammed ali\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "f:\\backend\\datingApp1\\API\\API.csproj",
       "projectName": "API",
       "projectPath": "f:\\backend\\datingApp1\\API\\API.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "f:\\backend\\datingApp1\\API\\obj\\",
+=======
+      "projectUniqueName": "c:\\Users\\mohammed ali\\DatingApp\\datingApp-dot-net\\API\\API.csproj",
+      "projectName": "API",
+      "projectPath": "c:\\Users\\mohammed ali\\DatingApp\\datingApp-dot-net\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\mohammed ali\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\mohammed ali\\DatingApp\\datingApp-dot-net\\API\\obj\\",
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mohammed ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1310,7 +1390,11 @@
           },
           "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
+<<<<<<< HEAD
             "version": "[7.0.9, )"
+=======
+            "version": "[7.0.7, )"
+>>>>>>> e270d684beb2615198a8195e547445dcd185c7bf
           }
         },
         "imports": [
@@ -1332,7 +1416,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
